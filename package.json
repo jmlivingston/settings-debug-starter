@@ -1,7 +1,7 @@
 {
   "name": "settings-debug-starter",
-  "displayName": "settings-debug-starter",
-  "description": "",
+  "displayName": "Settings debug starter",
+  "description": "Starts VS Code debugger based on what's in settings.json",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
